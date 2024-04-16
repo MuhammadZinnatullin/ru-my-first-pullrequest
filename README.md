@@ -1,2 +1,1 @@
-Lets code!
-thx, hexlet! 
+Hello GitHub
